@@ -1,0 +1,14 @@
+# missi_phone_eea-user 14 UKQ1.230804.001 V816.0.4.0.UMREUXM release-keys
+- manufacturer: xiaomi
+- platform: taro
+- codename: marble
+- flavor: missi_phone_eea-user
+- release: 14
+- id: UKQ1.230804.001
+- incremental: V816.0.4.0.UMREUXM
+- tags: release-keys
+- fingerprint: Xiaomi/marble/marble:12/SKQ1.230401.001/V816.0.4.0.UMREUXM:user/release-keys
+- is_ab: true
+- brand: POCO
+- branch: missi_phone_eea-user-14-UKQ1.230804.001-V816.0.4.0.UMREUXM-release-keys
+- repo: poco_marble_dump
